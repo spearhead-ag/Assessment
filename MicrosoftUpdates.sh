@@ -64,7 +64,7 @@ awk 'BEGIN {
     END{
    print("============================================================================================================================================================================");
    echo "/n" 
-}' finalOutput #>> AssignmentOutput 
+}' finalOutput #>> "AssignmentOutput" can be use to store output in a file instead on terminal
 
 
 echo "${Red}\033[5mNOTE: ${White}\033[25m"
