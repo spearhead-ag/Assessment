@@ -38,65 +38,65 @@
                         
                             <input id="f4b196cb-d911-4a90-8aff-e4062f4828b6" class="flatLightBlueButton" type="button" value='Download' />
                         </td>
-		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C0_R2">
-                    </td><td class="resultsbottomBorder resultspadding" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C1_R2">
-                        <a id='d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_link' href= "javascript:void(0);" onclick='goToDetails("d6ac2f08-fcb3-4111-a4e6-aa6db15ea804");'>
-                            2020-05 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB4556803)
-                        </a>
-                    </td><td class="resultsbottomBorder resultspadding" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C2_R2">
-                        Windows Insider Pre-Release
-                    </td><td class="resultsbottomBorder resultspadding" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C3_R2">
-                        Security Updates
-                    </td><td class="resultsbottomBorder resultspadding " id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C4_R2">
-                        5/11/2020
-                    </td><td class="resultsbottomBorder resultspadding" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C5_R2">
-                        n/a
-                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C6_R2">
-                       <span id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_size">203.0 MB</span> 
-                       <span class="noDisplay" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_originalSize">212871110</span>
-                    </td><td class="resultsbottomBorder resultsButtonWidth" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C7_R2">
-                        
-                            <input id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804" class="flatLightBlueButton" type="button" value='Download' />
-                        </td>
-		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C0_R3">
-                    </td><td class="resultsbottomBorder resultspadding" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C1_R3">
-                        <a id='a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_link' href= "javascript:void(0);" onclick='goToDetails("a65cc68c-6cdb-43c4-97b7-db0cd46c33a3");'>
-                            2020-05 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB4556803)
-                        </a>
-                    </td><td class="resultsbottomBorder resultspadding" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C2_R3">
-                        Windows Insider Pre-Release
-                    </td><td class="resultsbottomBorder resultspadding" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C3_R3">
-                        Security Updates
-                    </td><td class="resultsbottomBorder resultspadding " id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C4_R3">
-                        5/11/2020
-                    </td><td class="resultsbottomBorder resultspadding" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C5_R3">
-                        n/a
-                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C6_R3">
-                       <span id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_size">59.7 MB</span> 
-                       <span class="noDisplay" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_originalSize">62586995</span>
-                    </td><td class="resultsbottomBorder resultsButtonWidth" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C7_R3">
-                        
-                            <input id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3" class="flatLightBlueButton" type="button" value='Download' />
-                        </td>
-		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C0_R4">
-                    </td><td class="resultsbottomBorder resultspadding" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C1_R4">
+		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C0_R2">
+                    </td><td class="resultsbottomBorder resultspadding" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C1_R2">
                         <a id='0e9161f9-5340-482c-a3f8-758fd5691c3f_link' href= "javascript:void(0);" onclick='goToDetails("0e9161f9-5340-482c-a3f8-758fd5691c3f");'>
                             2020-05 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB4556803)
                         </a>
-                    </td><td class="resultsbottomBorder resultspadding" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C2_R4">
+                    </td><td class="resultsbottomBorder resultspadding" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C2_R2">
                         Windows Insider Pre-Release
-                    </td><td class="resultsbottomBorder resultspadding" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C3_R4">
+                    </td><td class="resultsbottomBorder resultspadding" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C3_R2">
                         Security Updates
-                    </td><td class="resultsbottomBorder resultspadding " id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C4_R4">
+                    </td><td class="resultsbottomBorder resultspadding " id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C4_R2">
                         5/11/2020
-                    </td><td class="resultsbottomBorder resultspadding" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C5_R4">
+                    </td><td class="resultsbottomBorder resultspadding" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C5_R2">
                         n/a
-                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C6_R4">
+                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C6_R2">
                        <span id="0e9161f9-5340-482c-a3f8-758fd5691c3f_size">203.0 MB</span> 
                        <span class="noDisplay" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_originalSize">212871110</span>
-                    </td><td class="resultsbottomBorder resultsButtonWidth" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C7_R4">
+                    </td><td class="resultsbottomBorder resultsButtonWidth" id="0e9161f9-5340-482c-a3f8-758fd5691c3f_C7_R2">
                         
                             <input id="0e9161f9-5340-482c-a3f8-758fd5691c3f" class="flatLightBlueButton" type="button" value='Download' />
+                        </td>
+		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C0_R3">
+                    </td><td class="resultsbottomBorder resultspadding" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C1_R3">
+                        <a id='d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_link' href= "javascript:void(0);" onclick='goToDetails("d6ac2f08-fcb3-4111-a4e6-aa6db15ea804");'>
+                            2020-05 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB4556803)
+                        </a>
+                    </td><td class="resultsbottomBorder resultspadding" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C2_R3">
+                        Windows Insider Pre-Release
+                    </td><td class="resultsbottomBorder resultspadding" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C3_R3">
+                        Security Updates
+                    </td><td class="resultsbottomBorder resultspadding " id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C4_R3">
+                        5/11/2020
+                    </td><td class="resultsbottomBorder resultspadding" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C5_R3">
+                        n/a
+                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C6_R3">
+                       <span id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_size">203.0 MB</span> 
+                       <span class="noDisplay" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_originalSize">212871110</span>
+                    </td><td class="resultsbottomBorder resultsButtonWidth" id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804_C7_R3">
+                        
+                            <input id="d6ac2f08-fcb3-4111-a4e6-aa6db15ea804" class="flatLightBlueButton" type="button" value='Download' />
+                        </td>
+		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C0_R4">
+                    </td><td class="resultsbottomBorder resultspadding" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C1_R4">
+                        <a id='a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_link' href= "javascript:void(0);" onclick='goToDetails("a65cc68c-6cdb-43c4-97b7-db0cd46c33a3");'>
+                            2020-05 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB4556803)
+                        </a>
+                    </td><td class="resultsbottomBorder resultspadding" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C2_R4">
+                        Windows Insider Pre-Release
+                    </td><td class="resultsbottomBorder resultspadding" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C3_R4">
+                        Security Updates
+                    </td><td class="resultsbottomBorder resultspadding " id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C4_R4">
+                        5/11/2020
+                    </td><td class="resultsbottomBorder resultspadding" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C5_R4">
+                        n/a
+                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C6_R4">
+                       <span id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_size">59.7 MB</span> 
+                       <span class="noDisplay" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_originalSize">62586995</span>
+                    </td><td class="resultsbottomBorder resultsButtonWidth" id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3_C7_R4">
+                        
+                            <input id="a65cc68c-6cdb-43c4-97b7-db0cd46c33a3" class="flatLightBlueButton" type="button" value='Download' />
                         </td>
 		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="9740f2f8-b112-4741-9fdd-3d0cb1435095_C0_R5">
                     </td><td class="resultsbottomBorder resultspadding" id="9740f2f8-b112-4741-9fdd-3d0cb1435095_C1_R5">
@@ -178,65 +178,65 @@
                         
                             <input id="8a3011bb-d28b-4c5f-aea8-bab5de079b77" class="flatLightBlueButton" type="button" value='Download' />
                         </td>
-		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="5d4802c0-7c3a-4477-a26a-92a725046690_C0_R9">
-                    </td><td class="resultsbottomBorder resultspadding" id="5d4802c0-7c3a-4477-a26a-92a725046690_C1_R9">
-                        <a id='5d4802c0-7c3a-4477-a26a-92a725046690_link' href= "javascript:void(0);" onclick='goToDetails("5d4802c0-7c3a-4477-a26a-92a725046690");'>
-                            2020-05 Update for Windows Server 2012 R2 for x64-based Systems (KB4557900)
-                        </a>
-                    </td><td class="resultsbottomBorder resultspadding" id="5d4802c0-7c3a-4477-a26a-92a725046690_C2_R9">
-                        Windows Server 2012 R2
-                    </td><td class="resultsbottomBorder resultspadding" id="5d4802c0-7c3a-4477-a26a-92a725046690_C3_R9">
-                        Update Rollups
-                    </td><td class="resultsbottomBorder resultspadding " id="5d4802c0-7c3a-4477-a26a-92a725046690_C4_R9">
-                        5/8/2020
-                    </td><td class="resultsbottomBorder resultspadding" id="5d4802c0-7c3a-4477-a26a-92a725046690_C5_R9">
-                        n/a
-                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="5d4802c0-7c3a-4477-a26a-92a725046690_C6_R9">
-                       <span id="5d4802c0-7c3a-4477-a26a-92a725046690_size">251 KB</span> 
-                       <span class="noDisplay" id="5d4802c0-7c3a-4477-a26a-92a725046690_originalSize">257712</span>
-                    </td><td class="resultsbottomBorder resultsButtonWidth" id="5d4802c0-7c3a-4477-a26a-92a725046690_C7_R9">
-                        
-                            <input id="5d4802c0-7c3a-4477-a26a-92a725046690" class="flatLightBlueButton" type="button" value='Download' />
-                        </td>
-		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="a04d5572-ba84-43e3-930e-996f7225b86b_C0_R10">
-                    </td><td class="resultsbottomBorder resultspadding" id="a04d5572-ba84-43e3-930e-996f7225b86b_C1_R10">
-                        <a id='a04d5572-ba84-43e3-930e-996f7225b86b_link' href= "javascript:void(0);" onclick='goToDetails("a04d5572-ba84-43e3-930e-996f7225b86b");'>
-                            2020-05 Update for Windows 8.1 for x64-based Systems (KB4557900)
-                        </a>
-                    </td><td class="resultsbottomBorder resultspadding" id="a04d5572-ba84-43e3-930e-996f7225b86b_C2_R10">
-                        Windows 8.1
-                    </td><td class="resultsbottomBorder resultspadding" id="a04d5572-ba84-43e3-930e-996f7225b86b_C3_R10">
-                        Update Rollups
-                    </td><td class="resultsbottomBorder resultspadding " id="a04d5572-ba84-43e3-930e-996f7225b86b_C4_R10">
-                        5/8/2020
-                    </td><td class="resultsbottomBorder resultspadding" id="a04d5572-ba84-43e3-930e-996f7225b86b_C5_R10">
-                        n/a
-                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="a04d5572-ba84-43e3-930e-996f7225b86b_C6_R10">
-                       <span id="a04d5572-ba84-43e3-930e-996f7225b86b_size">251 KB</span> 
-                       <span class="noDisplay" id="a04d5572-ba84-43e3-930e-996f7225b86b_originalSize">257712</span>
-                    </td><td class="resultsbottomBorder resultsButtonWidth" id="a04d5572-ba84-43e3-930e-996f7225b86b_C7_R10">
-                        
-                            <input id="a04d5572-ba84-43e3-930e-996f7225b86b" class="flatLightBlueButton" type="button" value='Download' />
-                        </td>
-		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="8075c608-8616-4e04-86c8-13f041b7220c_C0_R11">
-                    </td><td class="resultsbottomBorder resultspadding" id="8075c608-8616-4e04-86c8-13f041b7220c_C1_R11">
+		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="8075c608-8616-4e04-86c8-13f041b7220c_C0_R9">
+                    </td><td class="resultsbottomBorder resultspadding" id="8075c608-8616-4e04-86c8-13f041b7220c_C1_R9">
                         <a id='8075c608-8616-4e04-86c8-13f041b7220c_link' href= "javascript:void(0);" onclick='goToDetails("8075c608-8616-4e04-86c8-13f041b7220c");'>
                             2020-05 Update for Windows 7 for x86-based Systems (KB4557900)
                         </a>
-                    </td><td class="resultsbottomBorder resultspadding" id="8075c608-8616-4e04-86c8-13f041b7220c_C2_R11">
+                    </td><td class="resultsbottomBorder resultspadding" id="8075c608-8616-4e04-86c8-13f041b7220c_C2_R9">
                         Windows 7
-                    </td><td class="resultsbottomBorder resultspadding" id="8075c608-8616-4e04-86c8-13f041b7220c_C3_R11">
+                    </td><td class="resultsbottomBorder resultspadding" id="8075c608-8616-4e04-86c8-13f041b7220c_C3_R9">
                         Update Rollups
-                    </td><td class="resultsbottomBorder resultspadding " id="8075c608-8616-4e04-86c8-13f041b7220c_C4_R11">
+                    </td><td class="resultsbottomBorder resultspadding " id="8075c608-8616-4e04-86c8-13f041b7220c_C4_R9">
                         5/8/2020
-                    </td><td class="resultsbottomBorder resultspadding" id="8075c608-8616-4e04-86c8-13f041b7220c_C5_R11">
+                    </td><td class="resultsbottomBorder resultspadding" id="8075c608-8616-4e04-86c8-13f041b7220c_C5_R9">
                         n/a
-                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="8075c608-8616-4e04-86c8-13f041b7220c_C6_R11">
+                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="8075c608-8616-4e04-86c8-13f041b7220c_C6_R9">
                        <span id="8075c608-8616-4e04-86c8-13f041b7220c_size">516 KB</span> 
                        <span class="noDisplay" id="8075c608-8616-4e04-86c8-13f041b7220c_originalSize">529206</span>
-                    </td><td class="resultsbottomBorder resultsButtonWidth" id="8075c608-8616-4e04-86c8-13f041b7220c_C7_R11">
+                    </td><td class="resultsbottomBorder resultsButtonWidth" id="8075c608-8616-4e04-86c8-13f041b7220c_C7_R9">
                         
                             <input id="8075c608-8616-4e04-86c8-13f041b7220c" class="flatLightBlueButton" type="button" value='Download' />
+                        </td>
+		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="5d4802c0-7c3a-4477-a26a-92a725046690_C0_R10">
+                    </td><td class="resultsbottomBorder resultspadding" id="5d4802c0-7c3a-4477-a26a-92a725046690_C1_R10">
+                        <a id='5d4802c0-7c3a-4477-a26a-92a725046690_link' href= "javascript:void(0);" onclick='goToDetails("5d4802c0-7c3a-4477-a26a-92a725046690");'>
+                            2020-05 Update for Windows Server 2012 R2 for x64-based Systems (KB4557900)
+                        </a>
+                    </td><td class="resultsbottomBorder resultspadding" id="5d4802c0-7c3a-4477-a26a-92a725046690_C2_R10">
+                        Windows Server 2012 R2
+                    </td><td class="resultsbottomBorder resultspadding" id="5d4802c0-7c3a-4477-a26a-92a725046690_C3_R10">
+                        Update Rollups
+                    </td><td class="resultsbottomBorder resultspadding " id="5d4802c0-7c3a-4477-a26a-92a725046690_C4_R10">
+                        5/8/2020
+                    </td><td class="resultsbottomBorder resultspadding" id="5d4802c0-7c3a-4477-a26a-92a725046690_C5_R10">
+                        n/a
+                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="5d4802c0-7c3a-4477-a26a-92a725046690_C6_R10">
+                       <span id="5d4802c0-7c3a-4477-a26a-92a725046690_size">251 KB</span> 
+                       <span class="noDisplay" id="5d4802c0-7c3a-4477-a26a-92a725046690_originalSize">257712</span>
+                    </td><td class="resultsbottomBorder resultsButtonWidth" id="5d4802c0-7c3a-4477-a26a-92a725046690_C7_R10">
+                        
+                            <input id="5d4802c0-7c3a-4477-a26a-92a725046690" class="flatLightBlueButton" type="button" value='Download' />
+                        </td>
+		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="a04d5572-ba84-43e3-930e-996f7225b86b_C0_R11">
+                    </td><td class="resultsbottomBorder resultspadding" id="a04d5572-ba84-43e3-930e-996f7225b86b_C1_R11">
+                        <a id='a04d5572-ba84-43e3-930e-996f7225b86b_link' href= "javascript:void(0);" onclick='goToDetails("a04d5572-ba84-43e3-930e-996f7225b86b");'>
+                            2020-05 Update for Windows 8.1 for x64-based Systems (KB4557900)
+                        </a>
+                    </td><td class="resultsbottomBorder resultspadding" id="a04d5572-ba84-43e3-930e-996f7225b86b_C2_R11">
+                        Windows 8.1
+                    </td><td class="resultsbottomBorder resultspadding" id="a04d5572-ba84-43e3-930e-996f7225b86b_C3_R11">
+                        Update Rollups
+                    </td><td class="resultsbottomBorder resultspadding " id="a04d5572-ba84-43e3-930e-996f7225b86b_C4_R11">
+                        5/8/2020
+                    </td><td class="resultsbottomBorder resultspadding" id="a04d5572-ba84-43e3-930e-996f7225b86b_C5_R11">
+                        n/a
+                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="a04d5572-ba84-43e3-930e-996f7225b86b_C6_R11">
+                       <span id="a04d5572-ba84-43e3-930e-996f7225b86b_size">251 KB</span> 
+                       <span class="noDisplay" id="a04d5572-ba84-43e3-930e-996f7225b86b_originalSize">257712</span>
+                    </td><td class="resultsbottomBorder resultsButtonWidth" id="a04d5572-ba84-43e3-930e-996f7225b86b_C7_R11">
+                        
+                            <input id="a04d5572-ba84-43e3-930e-996f7225b86b" class="flatLightBlueButton" type="button" value='Download' />
                         </td>
 		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="0a388963-1b2e-4797-acff-dc4c68e83754_C0_R12">
                     </td><td class="resultsbottomBorder resultspadding" id="0a388963-1b2e-4797-acff-dc4c68e83754_C1_R12">
@@ -418,65 +418,65 @@
                         
                             <input id="b8678abf-603a-4c18-9526-7f739b03faf4" class="flatLightBlueButton" type="button" value='Download' />
                         </td>
-		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C0_R21">
-                    </td><td class="resultsbottomBorder resultspadding" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C1_R21">
-                        <a id='21fbc75e-41a8-46bd-8d21-c864f25114a6_link' href= "javascript:void(0);" onclick='goToDetails("21fbc75e-41a8-46bd-8d21-c864f25114a6");'>
-                            2020-05 Servicing Stack Update for Windows Embedded Standard 7 for x64-based Systems (KB4555449)
-                        </a>
-                    </td><td class="resultsbottomBorder resultspadding" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C2_R21">
-                        Windows Embedded Standard 7
-                    </td><td class="resultsbottomBorder resultspadding" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C3_R21">
-                        Security Updates
-                    </td><td class="resultsbottomBorder resultspadding " id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C4_R21">
-                        5/8/2020
-                    </td><td class="resultsbottomBorder resultspadding" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C5_R21">
-                        n/a
-                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C6_R21">
-                       <span id="21fbc75e-41a8-46bd-8d21-c864f25114a6_size">9.1 MB</span> 
-                       <span class="noDisplay" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_originalSize">9585813</span>
-                    </td><td class="resultsbottomBorder resultsButtonWidth" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C7_R21">
-                        
-                            <input id="21fbc75e-41a8-46bd-8d21-c864f25114a6" class="flatLightBlueButton" type="button" value='Download' />
-                        </td>
-		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C0_R22">
-                    </td><td class="resultsbottomBorder resultspadding" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C1_R22">
-                        <a id='057460c0-7d4f-46ba-a8b2-9808f1baf6a5_link' href= "javascript:void(0);" onclick='goToDetails("057460c0-7d4f-46ba-a8b2-9808f1baf6a5");'>
-                            2020-05 Servicing Stack Update for Windows 10 Version 2004 for x86-based Systems (KB4557968)
-                        </a>
-                    </td><td class="resultsbottomBorder resultspadding" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C2_R22">
-                        Windows Insider Pre-Release
-                    </td><td class="resultsbottomBorder resultspadding" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C3_R22">
-                        Security Updates
-                    </td><td class="resultsbottomBorder resultspadding " id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C4_R22">
-                        5/11/2020
-                    </td><td class="resultsbottomBorder resultspadding" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C5_R22">
-                        n/a
-                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C6_R22">
-                       <span id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_size">6.6 MB</span> 
-                       <span class="noDisplay" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_originalSize">6946153</span>
-                    </td><td class="resultsbottomBorder resultsButtonWidth" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C7_R22">
-                        
-                            <input id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5" class="flatLightBlueButton" type="button" value='Download' />
-                        </td>
-		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="2d66dbf6-e648-470e-9a55-f46efe469be2_C0_R23">
-                    </td><td class="resultsbottomBorder resultspadding" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C1_R23">
+		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="2d66dbf6-e648-470e-9a55-f46efe469be2_C0_R21">
+                    </td><td class="resultsbottomBorder resultspadding" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C1_R21">
                         <a id='2d66dbf6-e648-470e-9a55-f46efe469be2_link' href= "javascript:void(0);" onclick='goToDetails("2d66dbf6-e648-470e-9a55-f46efe469be2");'>
                             2020-05 Servicing Stack Update for Windows 7 for x86-based Systems (KB4555449)
                         </a>
-                    </td><td class="resultsbottomBorder resultspadding" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C2_R23">
+                    </td><td class="resultsbottomBorder resultspadding" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C2_R21">
                         Windows 7
-                    </td><td class="resultsbottomBorder resultspadding" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C3_R23">
+                    </td><td class="resultsbottomBorder resultspadding" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C3_R21">
                         Security Updates
-                    </td><td class="resultsbottomBorder resultspadding " id="2d66dbf6-e648-470e-9a55-f46efe469be2_C4_R23">
+                    </td><td class="resultsbottomBorder resultspadding " id="2d66dbf6-e648-470e-9a55-f46efe469be2_C4_R21">
                         5/8/2020
-                    </td><td class="resultsbottomBorder resultspadding" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C5_R23">
+                    </td><td class="resultsbottomBorder resultspadding" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C5_R21">
                         n/a
-                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C6_R23">
+                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C6_R21">
                        <span id="2d66dbf6-e648-470e-9a55-f46efe469be2_size">4.0 MB</span> 
                        <span class="noDisplay" id="2d66dbf6-e648-470e-9a55-f46efe469be2_originalSize">4225206</span>
-                    </td><td class="resultsbottomBorder resultsButtonWidth" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C7_R23">
+                    </td><td class="resultsbottomBorder resultsButtonWidth" id="2d66dbf6-e648-470e-9a55-f46efe469be2_C7_R21">
                         
                             <input id="2d66dbf6-e648-470e-9a55-f46efe469be2" class="flatLightBlueButton" type="button" value='Download' />
+                        </td>
+		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C0_R22">
+                    </td><td class="resultsbottomBorder resultspadding" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C1_R22">
+                        <a id='21fbc75e-41a8-46bd-8d21-c864f25114a6_link' href= "javascript:void(0);" onclick='goToDetails("21fbc75e-41a8-46bd-8d21-c864f25114a6");'>
+                            2020-05 Servicing Stack Update for Windows Embedded Standard 7 for x64-based Systems (KB4555449)
+                        </a>
+                    </td><td class="resultsbottomBorder resultspadding" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C2_R22">
+                        Windows Embedded Standard 7
+                    </td><td class="resultsbottomBorder resultspadding" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C3_R22">
+                        Security Updates
+                    </td><td class="resultsbottomBorder resultspadding " id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C4_R22">
+                        5/8/2020
+                    </td><td class="resultsbottomBorder resultspadding" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C5_R22">
+                        n/a
+                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C6_R22">
+                       <span id="21fbc75e-41a8-46bd-8d21-c864f25114a6_size">9.1 MB</span> 
+                       <span class="noDisplay" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_originalSize">9585813</span>
+                    </td><td class="resultsbottomBorder resultsButtonWidth" id="21fbc75e-41a8-46bd-8d21-c864f25114a6_C7_R22">
+                        
+                            <input id="21fbc75e-41a8-46bd-8d21-c864f25114a6" class="flatLightBlueButton" type="button" value='Download' />
+                        </td>
+		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C0_R23">
+                    </td><td class="resultsbottomBorder resultspadding" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C1_R23">
+                        <a id='057460c0-7d4f-46ba-a8b2-9808f1baf6a5_link' href= "javascript:void(0);" onclick='goToDetails("057460c0-7d4f-46ba-a8b2-9808f1baf6a5");'>
+                            2020-05 Servicing Stack Update for Windows 10 Version 2004 for x86-based Systems (KB4557968)
+                        </a>
+                    </td><td class="resultsbottomBorder resultspadding" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C2_R23">
+                        Windows Insider Pre-Release
+                    </td><td class="resultsbottomBorder resultspadding" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C3_R23">
+                        Security Updates
+                    </td><td class="resultsbottomBorder resultspadding " id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C4_R23">
+                        5/11/2020
+                    </td><td class="resultsbottomBorder resultspadding" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C5_R23">
+                        n/a
+                    </td><td class="resultsbottomBorder resultspadding resultsSizeWidth" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C6_R23">
+                       <span id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_size">6.6 MB</span> 
+                       <span class="noDisplay" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_originalSize">6946153</span>
+                    </td><td class="resultsbottomBorder resultsButtonWidth" id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5_C7_R23">
+                        
+                            <input id="057460c0-7d4f-46ba-a8b2-9808f1baf6a5" class="flatLightBlueButton" type="button" value='Download' />
                         </td>
 		<td class="resultsbottomBorder resultspadding resultsIconWidth " id="77249ac0-fe32-43fd-ad56-dafb3d23bbbc_C0_R24">
                     </td><td class="resultsbottomBorder resultspadding" id="77249ac0-fe32-43fd-ad56-dafb3d23bbbc_C1_R24">
